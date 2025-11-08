@@ -1,6 +1,6 @@
 # 🛡️ OWASP Top 10: 2025 — The Evolved Battlefield of Web Application Security
 
-## 🧠 TL;DR:
+## 🧠 TL;DR
 
 The **OWASP Top 10: 2025** shifts web security from a *vulnerability-fix* mindset to a *root-cause prevention* approach. It introduces new categories like **Software Supply Chain Failures** and **Mishandling of Exceptional Conditions**, while reinforcing **Access Control, Misconfigurations, and Cryptographic Failures** as core threats. The update reflects today’s ecosystem — where **cloud misconfigurations, dependency abuse, and design flaws** often matter more than traditional injections. In short: security in 2025 isn’t just about finding bugs — it’s about building systems that fail safely.
 
